@@ -12005,4 +12005,10 @@ textarea.form-control-lg {
   }
 }
 
+@media (min-width: 768px) {
+  .contact-input {
+    width: 50%;
+  }
+}
+
 /*# sourceMappingURL=index.044e704e.css.map */

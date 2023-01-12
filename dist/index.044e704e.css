@@ -12006,6 +12006,12 @@ textarea.form-control-lg {
   }
 }
 
+body:before {
+  content: "";
+  height: 60px;
+  display: block;
+}
+
 @media (min-width: 768px) {
   .contact-input {
     width: 50%;

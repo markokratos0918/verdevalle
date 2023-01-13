@@ -1,9 +1,9 @@
-6883
+6888
 79C:\Users\Empire-PC\VerdeValle\node_modules\cosmiconfig\dist\ExplorerBase.js.map133179806263894603 0
 87C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\dash-square-dotted.svg133179924023680445 0
 61C:\Users\Empire-PC\VerdeValle\node_modules\acorn\CHANGELOG.md133179806261923163 0
 75C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\plugin.svg133179924032436447 0
-42C:\Users\Empire-PC\VerdeValle\package.json133179924039074527 0
+42C:\Users\Empire-PC\VerdeValle\package.json133180720884952768 0
 86C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\features\localecompare.js133179806285251148 0
 75C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\transformer-js\native.js133179806262127909 0
 74C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\regions\KZ.js133179806285011642 0
@@ -17,14 +17,14 @@
 92C:\Users\Empire-PC\VerdeValle\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133179806270849192 0
 88C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\features\contenteditable.js133179806272534433 0
 88C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\reporter-dev-server\src\types.js.flow133179806254788022 0
-50C:\Users\Empire-PC\VerdeValle\src\img\agar-mkt.jpg133176254313024813 0
+50C:\Users\Empire-PC\VerdeValle\src\img\agar-mkt.jpg133180720885142772 0
 83C:\Users\Empire-PC\VerdeValle\node_modules\css-tree\lib\syntax\node\SelectorList.js133179806272354401 0
 76C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap\js\dist\dom\data.js.map133179806440778724 0
 74C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\globe.svg133179924028265616 0
 80C:\Users\Empire-PC\VerdeValle\node_modules\@swc\helpers\src\_to_property_key.mjs133179806273874124 0
-50C:\Users\Empire-PC\VerdeValle\src\img\farm map.png133180088462971681 0
+50C:\Users\Empire-PC\VerdeValle\src\img\farm map.png133180720885182786 0
 85C:\Users\Empire-PC\VerdeValle\node_modules\posthtml\node_modules\posthtml-parser\dist133179806260913057 1
-47C:\Users\Empire-PC\VerdeValle\package-lock.json133179962363538671 0
+47C:\Users\Empire-PC\VerdeValle\package-lock.json133180720884942756 0
 69C:\Users\Empire-PC\VerdeValle\node_modules\mdn-data\css\syntaxes.json133179806265344986 0
 63C:\Users\Empire-PC\VerdeValle\node_modules\glob-parent\index.js133179808186463012 0
 60C:\Users\Empire-PC\VerdeValle\node_modules\dotenv-expand\lib133179806259842974 1
@@ -32,7 +32,7 @@
 81C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\package-manager\lib\types.d.ts133179806269356424 0
 90C:\Users\Empire-PC\VerdeValle\node_modules\@popperjs\core\lib\dom-utils\instanceOf.js.flow133179806438968570 0
 87C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\telephone-outbound.svg133179924035681883 0
-57C:\Users\Empire-PC\VerdeValle\src\img\main-background.jpg133174515364456426 0
+57C:\Users\Empire-PC\VerdeValle\src\img\main-background.jpg133180720885292797 0
 57C:\Users\Empire-PC\VerdeValle\node_modules\yaml\README.md133179806269231198 0
 55C:\Users\Empire-PC\VerdeValle\node_modules\yaml\pair.js133179806263954617 0
 90C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\features\css-marker-pseudo.js133179806274404161 0
@@ -73,14 +73,14 @@
 81C:\Users\Empire-PC\VerdeValle\node_modules\@swc\helpers\lib\_non_iterable_rest.js133179806269516096 0
 86C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\arrow-right-short.svg133179924011382342 0
 63C:\Users\Empire-PC\VerdeValle\node_modules\weak-lru-cache\tests133179806259952974 1
-34C:\Users\Empire-PC\VerdeValle\dist133180652746020963 1
+34C:\Users\Empire-PC\VerdeValle\dist133180721913709158 1
 69C:\Users\Empire-PC\VerdeValle\node_modules\utility-types\package.json133179806260463017 0
 70C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\package-manager\lib133179806269306422 1
-42C:\Users\Empire-PC\VerdeValle\node_modules133179962362838626 1
+42C:\Users\Empire-PC\VerdeValle\node_modules133180720884902752 1
 91C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\features\screen-orientation.js133179806287585126 0
 55C:\Users\Empire-PC\VerdeValle\node_modules\svgo\LICENSE133179806253867956 0
 69C:\Users\Empire-PC\VerdeValle\node_modules\lightningcss\node\ast.d.ts133179806263724596 0
-33C:\Users\Empire-PC\VerdeValle\src133179813345251190 1
+33C:\Users\Empire-PC\VerdeValle\src133180720885402797 1
 77C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\eye-fill.svg133179924025375120 0
 76C:\Users\Empire-PC\VerdeValle\node_modules\lmdb\dependencies\lz4\lib\lz4hc.c133179806267056965 0
 96C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\features\css-backgroundblendmode.js133179806273154471 0
@@ -91,7 +91,7 @@
 64C:\Users\Empire-PC\VerdeValle\node_modules\utility-types\LICENSE133179806253817952 0
 63C:\Users\Empire-PC\VerdeValle\node_modules\lmdb\src\lmdb-js.cpp133179806271454321 0
 74C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\heart.svg133179924028857670 0
-37C:\Users\Empire-PC\VerdeValle\src\img133180640002574602 1
+37C:\Users\Empire-PC\VerdeValle\src\img133180720885382789 1
 86C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\features\css-image-set.js133179806274224142 0
 127C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob\package.json133179806271594336 0
 81C:\Users\Empire-PC\VerdeValle\node_modules\@popperjs\core\dist\umd\popper-base.js133179806437831284 0
@@ -110,7 +110,7 @@
 74C:\Users\Empire-PC\VerdeValle\node_modules\update-browserslist-db\index.js133179806257864753 0
 66C:\Users\Empire-PC\VerdeValle\node_modules\sass\types\compile.d.ts133179808194303752 0
 91C:\Users\Empire-PC\VerdeValle\node_modules\lmdb\node_modules\node-addon-api\tools\README.md133179806265014958 0
-44C:\Users\Empire-PC\VerdeValle\src\index.html133180648010536689 0
+44C:\Users\Empire-PC\VerdeValle\src\index.html133180720885402797 0
 61C:\Users\Empire-PC\VerdeValle\node_modules\lmdb\node-index.js133179806272934456 0
 77C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\9-circle.svg133179924010702665 0
 74C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\regions\HN.js133179806283211487 0
@@ -140,14 +140,14 @@
 68C:\Users\Empire-PC\VerdeValle\node_modules\csso\lib\clean\Comment.js133179806263924610 0
 92C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\core\test\fixtures\custom-targets-distdir133179806274264149 1
 83C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\cc-circle-fill.svg133179924020930223 0
-38C:\Users\Empire-PC\VerdeValle\src\scss133179806887137583 1
+38C:\Users\Empire-PC\VerdeValle\src\scss133180720885412796 1
 78C:\Users\Empire-PC\VerdeValle\node_modules\node-releases\data\release-schedule133179806258852895 1
 52C:\Users\Empire-PC\VerdeValle\node_modules\immutable133179808189993410 1
 65C:\Users\Empire-PC\VerdeValle\node_modules\msgpackr\node-index.js133179806263190173 0
 74C:\Users\Empire-PC\VerdeValle\node_modules\domutils\lib\stringify.d.ts.map133179806263724596 0
 81C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\capsule-pill.svg133179924020543135 0
 83C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\rocket-takeoff.svg133179924033273969 0
-50C:\Users\Empire-PC\VerdeValle\src\scss\styles.scss133180652699853471 0
+50C:\Users\Empire-PC\VerdeValle\src\scss\styles.scss133180720885412796 0
 50C:\Users\Empire-PC\VerdeValle\node_modules\@parcel133179808185612947 1
 79C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\package-manager\lib\index.js133179806259092910 0
 75C:\Users\Empire-PC\VerdeValle\node_modules\@popperjs\core\lib\utils\math.js133179806440048661 0
@@ -159,7 +159,7 @@
 44C:\Users\Empire-PC\VerdeValle\src\js\main.js133179810763728839 0
 86C:\Users\Empire-PC\VerdeValle\node_modules\lmdb\node_modules\node-addon-api\LICENSE.md133179806264614081 0
 81C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\grid-3x3-gap.svg133179924028398016 0
-50C:\Users\Empire-PC\VerdeValle\src\img\agar-ftr.jpg133176283656883293 0
+50C:\Users\Empire-PC\VerdeValle\src\img\agar-ftr.jpg133180720885112770 0
 99C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js.map133179806272034373 0
 56C:\Users\Empire-PC\VerdeValle\node_modules\lmdb\index.js133179806272824437 0
 66C:\Users\Empire-PC\VerdeValle\node_modules\posthtml-parser\license133179806253837948 0
@@ -168,7 +168,7 @@
 69C:\Users\Empire-PC\VerdeValle\node_modules\nth-check\lib\esm\index.js133179806258182831 0
 63C:\Users\Empire-PC\VerdeValle\node_modules\htmlnano\lib\presets133179806266081750 1
 83C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\bookmark-check.svg133179924012605805 0
-52C:\Users\Empire-PC\VerdeValle\src\img\background.jpg133179219860000000 0
+52C:\Users\Empire-PC\VerdeValle\src\img\background.jpg133180720885172771 0
 49C:\Users\Empire-PC\VerdeValle\node_modules\braces133179806259122914 1
 47C:\Users\Empire-PC\VerdeValle\node_modules\csso133179806269040810 1
 72C:\Users\Empire-PC\VerdeValle\node_modules\@swc\helpers\lib\_ts_param.js133179806271064288 0
@@ -182,10 +182,10 @@
 76C:\Users\Empire-PC\VerdeValle\node_modules\css-tree\lib\lexer\match-graph.js133179806271024287 0
 69C:\Users\Empire-PC\VerdeValle\node_modules\v8-compile-cache\README.md133179806258902894 0
 86C:\Users\Empire-PC\VerdeValle\node_modules\@popperjs\core\lib\utils\expandToHashMap.js133179806439678628 0
-49C:\Users\Empire-PC\VerdeValle\src\img\Dongles.jpg133179219860000000 0
+49C:\Users\Empire-PC\VerdeValle\src\img\Dongles.jpg133180720884982761 0
 75C:\Users\Empire-PC\VerdeValle\node_modules\cosmiconfig\dist\readFile.js.map133179806265981746 0
 83C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\calendar-check.svg133179924019827893 0
-48C:\Users\Empire-PC\VerdeValle\src\img\Eviarc.jpg133175356306351222 0
+48C:\Users\Empire-PC\VerdeValle\src\img\Eviarc.jpg133180720885002763 0
 75C:\Users\Empire-PC\VerdeValle\node_modules\ordered-binary\.idea\modules.xml133179806262566621 0
 85C:\Users\Empire-PC\VerdeValle\node_modules\htmlnano\lib\modules\collapseWhitespace.js133179806260723043 0
 91C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\file-earmark-post-fill.svg133179924026155805 0
@@ -193,13 +193,13 @@
 70C:\Users\Empire-PC\VerdeValle\node_modules\domutils\lib\feeds.d.ts.map133179806262343024 0
 82C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\envelope-plus.svg133179924025105098 0
 52C:\Users\Empire-PC\VerdeValle\node_modules\callsites133179806258402853 1
-52C:\Users\Empire-PC\VerdeValle\src\img\Ferio Hill.jpg133179219880000000 0
+52C:\Users\Empire-PC\VerdeValle\src\img\Ferio Hill.jpg133180720885052768 0
 81C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\folder-minus.svg133179924027835583 0
 72C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\pin.svg133179924032236426 0
 72C:\Users\Empire-PC\VerdeValle\node_modules\source-map-js\source-map.d.ts133179808189343342 0
 74C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\regions\KM.js133179806284891631 0
-51C:\Users\Empire-PC\VerdeValle\src\img\md2 fruit.jpg133175397559437078 0
-61C:\Users\Empire-PC\VerdeValle\node_modules\.package-lock.json133179962363858714 0
+51C:\Users\Empire-PC\VerdeValle\src\img\md2 fruit.jpg133180720885302797 0
+61C:\Users\Empire-PC\VerdeValle\node_modules\.package-lock.json133180720884912752 0
 86C:\Users\Empire-PC\VerdeValle\node_modules\type-fest\source\union-to-intersection.d.ts133179806267316658 0
 88C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\bookmark-heart-fill.svg133179924012665813 0
 65C:\Users\Empire-PC\VerdeValle\node_modules\commander\package.json133179806258802913 0
@@ -209,8 +209,8 @@
 90C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\file-spreadsheet-fill.svg133179924026823645 0
 73C:\Users\Empire-PC\VerdeValle\node_modules\csso\lib\replace\Percentage.js133179806267416653 0
 58C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\workers133179806268245362 1
-49C:\Users\Empire-PC\VerdeValle\src\img\md2-ftr.jpg133176284728164028 0
-52C:\Users\Empire-PC\VerdeValle\src\img\Road Alley.jpg133179219860000000 0
+49C:\Users\Empire-PC\VerdeValle\src\img\md2-ftr.jpg133180720885342792 0
+52C:\Users\Empire-PC\VerdeValle\src\img\Road Alley.jpg133180720885082763 0
 59C:\Users\Empire-PC\VerdeValle\node_modules\lmdb\src\dbi.cpp133179806271384317 0
 76C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\info-lg.svg133179924029492328 0
 71C:\Users\Empire-PC\VerdeValle\node_modules\css-tree\lib\parser\index.js133179806270177420 0
@@ -219,7 +219,7 @@
 61C:\Users\Empire-PC\VerdeValle\node_modules\msgpackr\unpack.js133179806265174976 0
 53C:\Users\Empire-PC\VerdeValle\node_modules\color-name133179806257684726 1
 70C:\Users\Empire-PC\VerdeValle\node_modules\weak-lru-cache\package.json133179806260583029 0
-48C:\Users\Empire-PC\VerdeValle\src\img\tgmaya.jpg133179219880000000 0
+48C:\Users\Empire-PC\VerdeValle\src\img\tgmaya.jpg133180720885392795 0
 82C:\Users\Empire-PC\VerdeValle\node_modules\cosmiconfig\dist\getPropertyByPath.d.ts133179806267066957 0
 76C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\type-h1.svg133179924036471133 0
 47C:\Users\Empire-PC\VerdeValle\node_modules\.bin133179808207194853 1
@@ -1047,7 +1047,7 @@
 78C:\Users\Empire-PC\VerdeValle\node_modules\source-map\dist\source-map.debug.js133179806264884946 0
 81C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\arrow-repeat.svg133179924011322339 0
 66C:\Users\Empire-PC\VerdeValle\node_modules\terser\bin\package.json133179806269807390 0
-57C:\Users\Empire-PC\VerdeValle\dist\index.044e704e.css.map133180652746010960 0
+57C:\Users\Empire-PC\VerdeValle\dist\index.044e704e.css.map133180721912949098 0
 64C:\Users\Empire-PC\VerdeValle\node_modules\xxhash-wasm\README.md133179806261933169 0
 74C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\regions\IQ.js133179806284451596 0
 89C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\emoji-expressionless.svg133179924024664436 0
@@ -1084,6 +1084,7 @@
 72C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\types\lib\unsafe.d.ts133179806261433096 0
 77C:\Users\Empire-PC\VerdeValle\node_modules\xxhash-wasm\esm\xxhash-wasm.js.map133179806260373007 0
 73C:\Users\Empire-PC\VerdeValle\node_modules\svgo\plugins\removeUnusedNS.js133179806269747383 0
+64C:\Users\Empire-PC\VerdeValle\dist\agar-ftr.7f00f9e9.jpg.1676.11133180720884502719 0
 62C:\Users\Empire-PC\VerdeValle\node_modules\weak-lru-cache\dist133179806253734005 1
 69C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\core\lib\Parcel.js133179806271864362 0
 64C:\Users\Empire-PC\VerdeValle\node_modules\htmlnano\package.json133179806268185373 0
@@ -1263,6 +1264,7 @@
 80C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\house-slash.svg133179924029252305 0
 77C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap\scss\mixins\_resize.scss133179806442088820 0
 56C:\Users\Empire-PC\VerdeValle\node_modules\svgo\bin\svgo133179806254718019 0
+71C:\Users\Empire-PC\VerdeValle\dist\main-background.c5698d0c.jpg.1676.15133180720884762762 0
 69C:\Users\Empire-PC\VerdeValle\node_modules\csso\lib\replace\Number.js133179806267346648 0
 85C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\menu-button-fill.svg133179924030492376 0
 72C:\Users\Empire-PC\VerdeValle\node_modules\type-fest\source\mutable.d.ts133179806265204974 0
@@ -3241,7 +3243,7 @@
 83C:\Users\Empire-PC\VerdeValle\node_modules\css-tree\lib\syntax\node\TypeSelector.js133179806272854439 0
 79C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\layout-wtf.svg133179924030057946 0
 83C:\Users\Empire-PC\VerdeValle\node_modules\css-tree\lib\syntax\node\UnicodeRange.js133179806272894441 0
-56C:\Users\Empire-PC\VerdeValle\dist\index.18dbc454.js.map133180652745590930 0
+56C:\Users\Empire-PC\VerdeValle\dist\index.18dbc454.js.map133180717632656974 0
 71C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\transformer-html\src133179806260753047 1
 84C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\minecart-loaded.svg133179924030626751 0
 74C:\Users\Empire-PC\VerdeValle\node_modules\css-tree\lib\syntax\node\Url.js133179806272924450 0
@@ -3704,7 +3706,7 @@
 78C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\transformer-js\package.json133179806262406605 0
 91C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\features\css-cascade-layers.js133179806273294475 0
 86C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\features\css-clip-path.js133179806273364484 0
-45C:\Users\Empire-PC\VerdeValle\dist\index.html133180652745980957 0
+45C:\Users\Empire-PC\VerdeValle\dist\index.html133180721913699159 0
 91C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\features\css-color-function.js133179806273404486 0
 92C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\features\css-conic-gradients.js133179806273414488 0
 98C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\features\css-container-query-units.js133179806273474496 0
@@ -3720,7 +3722,7 @@
 87C:\Users\Empire-PC\VerdeValle\node_modules\@popperjs\core\lib\utils\rectToClientRect.js133179806440178665 0
 89C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\features\css-env-function.js133179806273804115 0
 77C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\bug-fill.svg133179924017515374 0
-52C:\Users\Empire-PC\VerdeValle\dist\index.18dbc454.js133180652745550933 0
+52C:\Users\Empire-PC\VerdeValle\dist\index.18dbc454.js133180717632616989 0
 91C:\Users\Empire-PC\VerdeValle\node_modules\@babel\highlight\node_modules\has-flag\readme.md133179806257992813 0
 97C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\features\css-file-selector-button.js133179806273844117 0
 83C:\Users\Empire-PC\VerdeValle\node_modules\@popperjs\core\lib\utils\getVariation.js133179806440008660 0
@@ -3835,7 +3837,7 @@
 68C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap\js\src\alert.js133179806437711273 0
 96C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\features\document-evaluate-xpath.js133179806275954387 0
 94C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\features\dom-manip-convenience.js133179806276034404 0
-55C:\Users\Empire-PC\VerdeValle\dist\md2-ftr.ecbadd94.jpg133180652745540927 0
+55C:\Users\Empire-PC\VerdeValle\dist\md2-ftr.ecbadd94.jpg133180720884802743 0
 86C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\person-vcard-fill.svg133179924031896398 0
 89C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\features\domcontentloaded.js133179806276064410 0
 82C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\features\dragndrop.js133179806276104408 0
@@ -3929,6 +3931,7 @@
 113C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\other.js133179806270237422 0
 90C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\features\input-placeholder.js133179806284271582 0
 88C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\features\input-selection.js133179806284311581 0
+65C:\Users\Empire-PC\VerdeValle\dist\index.044e704e.css.map.1676.16133180720884592748 0
 93C:\Users\Empire-PC\VerdeValle\node_modules\@popperjs\core\lib\dom-utils\getNodeScroll.js.flow133179806438634401 0
 88C:\Users\Empire-PC\VerdeValle\node_modules\caniuse-lite\data\features\insert-adjacent.js133179806284331588 0
 85C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\person-dash-fill.svg133179924031566380 0
@@ -4278,7 +4281,7 @@
 75C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\packager-js\src\index.js133179806263400186 0
 85C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\arrow-down-right.svg133179924011182327 0
 77C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\badge-4k.svg133179924011826223 0
-56C:\Users\Empire-PC\VerdeValle\dist\farm map.1db127a6.png133180652745140893 0
+56C:\Users\Empire-PC\VerdeValle\dist\farm map.1db127a6.png133180720884542734 0
 86C:\Users\Empire-PC\VerdeValle\node_modules\@babel\highlight\node_modules\color-convert133179806260413012 1
 91C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\arrow-down-square-fill.svg133179924011192327 0
 79C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\file-image.svg133179924026433604 0
@@ -4291,7 +4294,7 @@
 93C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\arrow-through-heart-fill.svg133179924011432346 0
 83C:\Users\Empire-PC\VerdeValle\node_modules\@swc\helpers\lib\_array_without_holes.js133179806258842881 0
 80C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\cloud-haze2.svg133179924022812349 0
-55C:\Users\Empire-PC\VerdeValle\dist\Dongles.368736fa.jpg133180652745160908 0
+55C:\Users\Empire-PC\VerdeValle\dist\Dongles.368736fa.jpg133180720884312704 0
 89C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\arrow-up-circle-fill.svg133179924011462365 0
 94C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\arrow-up-left-circle-fill.svg133179924011482358 0
 94C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap-icons\icons\arrow-up-left-square-fill.svg133179924011502352 0
@@ -5586,7 +5589,7 @@
 75C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap\scss\_transitions.scss133179806442258834 0
 73C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap\scss\_utilities.scss133179806442298850 0
 74C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap\scss\vendor\_rfs.scss133179806442118837 0
-63C:\Users\Empire-PC\VerdeValle\dist\main-background.c5698d0c.jpg133180652745970961 0
+63C:\Users\Empire-PC\VerdeValle\dist\main-background.c5698d0c.jpg133180720884712763 0
 77C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap\scss\utilities\_api.scss133179806441338772 0
 133C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\package.json133179806274604179 0
 76C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap\scss\mixins\_alert.scss133179806441308768 0
@@ -5698,7 +5701,7 @@
 92C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map133179806439208600 0
 82C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap\dist\css\bootstrap-reboot.css133179806437043052 0
 86C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap\dist\css\bootstrap-reboot.css.map133179806439248599 0
-51C:\Users\Empire-PC\VerdeValle\dist\CEO.d88b9384.jpg133180634191882390 0
+51C:\Users\Empire-PC\VerdeValle\dist\CEO.d88b9384.jpg133180720884172705 0
 86C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap\dist\css\bootstrap-reboot.min.css133179806437063057 0
 90C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap\dist\css\bootstrap-reboot.min.css.map133179806439288597 0
 90C:\Users\Empire-PC\VerdeValle\node_modules\bootstrap\dist\css\bootstrap-reboot.rtl.min.css133179806437093062 0
@@ -5770,6 +5773,7 @@
 92C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\transformer-babel\lib\BabelTransformer.js133179806260122998 0
 84C:\Users\Empire-PC\VerdeValle\node_modules\@swc\helpers\src\_array_like_to_array.mjs133179806271584331 0
 79C:\Users\Empire-PC\VerdeValle\node_modules\@swc\helpers\src\_async_iterator.mjs133179806271834354 0
+62C:\Users\Empire-PC\VerdeValle\dist\tgmaya.2886c92e.jpg.1676.13133180720884882763 0
 83C:\Users\Empire-PC\VerdeValle\node_modules\@swc\helpers\src\_async_to_generator.mjs133179806271864362 0
 76C:\Users\Empire-PC\VerdeValle\node_modules\@swc\helpers\src\_await_value.mjs133179806271924368 0
 85C:\Users\Empire-PC\VerdeValle\node_modules\@popperjs\core\lib\utils\getAltLen.js.flow133179806439828643 0
@@ -6256,7 +6260,7 @@
 116C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\transformer-react-refresh-wrap\lib\ReactRefreshWrapTransformer.js133179806259622951 0
 70C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\transformer-raw\lib133179806254518012 1
 74C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\transformer-raw\LICENSE133179806253917950 0
-54C:\Users\Empire-PC\VerdeValle\dist\tgmaya.2886c92e.jpg133180652745930959 0
+54C:\Users\Empire-PC\VerdeValle\dist\tgmaya.2886c92e.jpg133180720884842748 0
 79C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\transformer-raw\package.json133179806258272837 0
 75C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\transformer-posthtml\lib133179806258102821 1
 84C:\Users\Empire-PC\VerdeValle\node_modules\@parcel\transformer-posthtml\package.json133179806260142993 0
@@ -6811,7 +6815,7 @@
 79C:\Users\Empire-PC\VerdeValle\node_modules\@jridgewell\gen-mapping\package.json133179806257441623 0
 70C:\Users\Empire-PC\VerdeValle\node_modules\@jridgewell\gen-mapping\src133179806263120167 1
 85C:\Users\Empire-PC\VerdeValle\node_modules\@jridgewell\gen-mapping\src\gen-mapping.ts133179806262183016 0
-51C:\Users\Empire-PC\VerdeValle\dist\CIO.1f34d664.jpg133180634191882390 0
+51C:\Users\Empire-PC\VerdeValle\dist\CIO.1f34d664.jpg133180720884242700 0
 79C:\Users\Empire-PC\VerdeValle\node_modules\@jridgewell\gen-mapping\src\types.ts133179806263180175 0
 91C:\Users\Empire-PC\VerdeValle\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.mjs.map133179806258382845 0
 77C:\Users\Empire-PC\VerdeValle\node_modules\@jridgewell\gen-mapping\dist\types133179806262910146 1
@@ -6873,12 +6877,13 @@
 58C:\Users\Empire-PC\VerdeValle\node_modules\.bin\semver.ps1133179806290266756 0
 56C:\Users\Empire-PC\VerdeValle\node_modules\.bin\svgo.cmd133179806290256765 0
 54C:\Users\Empire-PC\VerdeValle\node_modules\.bin\terser133179806290266756 0
-56C:\Users\Empire-PC\VerdeValle\dist\agar-ftr.7f00f9e9.jpg133180652745770960 0
-58C:\Users\Empire-PC\VerdeValle\dist\background.3289ddc3.jpg133180637834345536 0
-51C:\Users\Empire-PC\VerdeValle\dist\CFO.b87d3622.jpg133180634191672371 0
-51C:\Users\Empire-PC\VerdeValle\dist\COO.2f40b91e.jpg133180634191762377 0
-54C:\Users\Empire-PC\VerdeValle\dist\Eviarc.2a66b715.jpg133180016901776049 0
-58C:\Users\Empire-PC\VerdeValle\dist\Ferio Hill.c60eb71a.jpg133180652745170903 0
-53C:\Users\Empire-PC\VerdeValle\dist\index.044e704e.css133180652745980957 0
-57C:\Users\Empire-PC\VerdeValle\dist\md2 fruit.09fa01fc.jpg133180048967043138 0
-58C:\Users\Empire-PC\VerdeValle\dist\Road Alley.ba39ba53.jpg133180652745770960 0
+56C:\Users\Empire-PC\VerdeValle\dist\agar-ftr.7f00f9e9.jpg133180720884472720 0
+58C:\Users\Empire-PC\VerdeValle\dist\background.3289ddc3.jpg133180720884532730 0
+51C:\Users\Empire-PC\VerdeValle\dist\CFO.b87d3622.jpg133180720884202711 0
+51C:\Users\Empire-PC\VerdeValle\dist\COO.2f40b91e.jpg133180720884292709 0
+54C:\Users\Empire-PC\VerdeValle\dist\Eviarc.2a66b715.jpg133180720884332714 0
+58C:\Users\Empire-PC\VerdeValle\dist\Ferio Hill.c60eb71a.jpg133180720884382718 0
+53C:\Users\Empire-PC\VerdeValle\dist\index.044e704e.css133180721912889248 0
+57C:\Users\Empire-PC\VerdeValle\dist\md2 fruit.09fa01fc.jpg133180720884772752 0
+58C:\Users\Empire-PC\VerdeValle\dist\Road Alley.ba39ba53.jpg133180720884412711 0
+66C:\Users\Empire-PC\VerdeValle\dist\Road Alley.ba39ba53.jpg.1676.12133180720884442712 0

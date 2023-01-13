@@ -16,6 +16,15 @@ header{
     background-image: url(/src/img/main-background.jpg);
 }
 
+.bg-img {
+    background-image: url(/src/img/Ferio\ Hill.jpg);
+    height: 60vh;
+    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 @media only screen and (max-width:600px){
     header{
         background-position: 20%;

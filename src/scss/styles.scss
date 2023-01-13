@@ -1,3 +1,4 @@
+$font-family-sans-serif: 'Poppins', sans-serif;
 
 @import "~bootstrap/scss/bootstrap";
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
@@ -8,6 +9,18 @@ body::before {
     height: 60px;
 }
 
+header{
+    height: 70vh;
+    min-height: 400px;
+    background-size: cover;
+    background-image: url(/src/img/main-background.jpg);
+}
+
+@media only screen and (max-width:600px){
+    header{
+        background-position: 20%;
+    }
+}
 
 @media(min-width: 768px) {
     .contact-input {
